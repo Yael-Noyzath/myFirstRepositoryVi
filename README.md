@@ -1,0 +1,2 @@
+# myFirstRepositoryVi
+learn with video
